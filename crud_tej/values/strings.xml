@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curdoperation</string>
+    <array name="department">
+        <item>HR</item>
+        <item>Project Manager</item>
+        <item>Developer</item>
+        <item>Finance</item>
+    </array>
+</resources>
